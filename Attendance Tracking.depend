@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682876585 source:c:\users\jaas-pc\desktop\oodp\attendance tracking\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
